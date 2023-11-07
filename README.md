@@ -1,0 +1,3 @@
+# Covid Data Analysis
+
+This repository includes a series of SQL queries that were executed on COVID-19 data, with a focus on understanding the impact of the pandemic on different regions and populations. The queries cover a range of analyses, including calculating death percentages, infection rates, vaccination statistics, and visualizing data by continent. Additionally, a view was created to store data for potential future visualizations. These SQL queries are aimed at providing insights into the COVID-19 pandemic's effects on different countries and continents, with a particular emphasis on death counts, vaccination rates, and population-level analysis. The results from these queries can serve as valuable inputs for further data visualization and reporting.
